@@ -34,8 +34,12 @@
 
 ### Network social
 <p align="left">
-  <img height="27"  src= "https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"> 
-  <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">
+  <a href="https://discordapp.com/users/980172135270072350/ ">
+    <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
+  </a>
+  <a href="https://t.me/PROFlTE">
+    <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">
+  </a>
 </p>
 
 ### My OS
