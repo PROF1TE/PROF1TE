@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <img height="35"  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PROF1TE&show_icons=true&theme=transparent)
